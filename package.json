@@ -1,7 +1,7 @@
 {
   "name": "my-cicd-app",
   "version": "0.1.0",
-  "homepage": "https://eisenexus.github.io/my-cicd-app",
+  "homepage": "https://eisenexus.github.io/my-react-app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
